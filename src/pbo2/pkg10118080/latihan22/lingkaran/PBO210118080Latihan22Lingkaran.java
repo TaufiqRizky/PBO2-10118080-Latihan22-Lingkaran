@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author 
  * Nama :Taufiq Rizky
  * NIM  :10118080
- * Deskripsi Program    : program Menghiting Luas lingkaran
+ * Deskripsi Program    : program Menghiting lingkaran
  */
 public class PBO210118080Latihan22Lingkaran {
 
